@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh-CN.md)
+
 # iframe-extractor
 
 A lightweight Go tool that extracts iframe tags from web pages using headless Chrome. Perfect for analyzing embedded content, scraping iframe sources, or auditing third-party integrations.
